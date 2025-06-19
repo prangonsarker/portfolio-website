@@ -148,14 +148,14 @@
         if ($typed.length) {
             var typed = new Typed("#typed", {
                 strings: [
-                    "web developer",
-                    "creative designer",
-                    "programmer",
-                    "UI/UX researcher",
-                    "multimedia editor",
+                    "Medical Student",
+                    "Contetnt Creator",
+                    "Web Developer",
+                    "Learner",
+                    
                 ],
                 loop: true,
-                typeSpeed: 70,
+                typeSpeed: 80,
             });
         }
     }
